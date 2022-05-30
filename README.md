@@ -1,3 +1,3 @@
 # js-unit-tests
 
-Praticando TDD
+A project made with the objective to pratice Unit Tests on javascript
